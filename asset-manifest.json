@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/tax-final/static/css/main.ff0c92b5.chunk.css",
-    "main.js": "/tax-final/static/js/main.b739658c.chunk.js",
-    "main.js.map": "/tax-final/static/js/main.b739658c.chunk.js.map",
+    "main.js": "/tax-final/static/js/main.64d1bf15.chunk.js",
+    "main.js.map": "/tax-final/static/js/main.64d1bf15.chunk.js.map",
     "runtime-main.js": "/tax-final/static/js/runtime-main.9ecb3d1e.js",
     "runtime-main.js.map": "/tax-final/static/js/runtime-main.9ecb3d1e.js.map",
-    "static/js/2.e2af1dcc.chunk.js": "/tax-final/static/js/2.e2af1dcc.chunk.js",
-    "static/js/2.e2af1dcc.chunk.js.map": "/tax-final/static/js/2.e2af1dcc.chunk.js.map",
+    "static/js/2.5c24bc32.chunk.js": "/tax-final/static/js/2.5c24bc32.chunk.js",
+    "static/js/2.5c24bc32.chunk.js.map": "/tax-final/static/js/2.5c24bc32.chunk.js.map",
     "index.html": "/tax-final/index.html",
     "static/css/main.ff0c92b5.chunk.css.map": "/tax-final/static/css/main.ff0c92b5.chunk.css.map",
-    "static/js/2.e2af1dcc.chunk.js.LICENSE.txt": "/tax-final/static/js/2.e2af1dcc.chunk.js.LICENSE.txt",
+    "static/js/2.5c24bc32.chunk.js.LICENSE.txt": "/tax-final/static/js/2.5c24bc32.chunk.js.LICENSE.txt",
     "static/media/index.css": "/tax-final/static/media/LabGrotesque-Regular.f45d8fdb.woff2",
     "static/media/advanceForm.css": "/tax-final/static/media/Vectorcheck.62a8ceae.svg",
     "static/media/closeButton.css": "/tax-final/static/media/Vectorclose.beb7d290.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9ecb3d1e.js",
-    "static/js/2.e2af1dcc.chunk.js",
+    "static/js/2.5c24bc32.chunk.js",
     "static/css/main.ff0c92b5.chunk.css",
-    "static/js/main.b739658c.chunk.js"
+    "static/js/main.64d1bf15.chunk.js"
   ]
 }
